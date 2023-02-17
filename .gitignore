@@ -1,0 +1,8 @@
+/toolbox/*.pyt.xml
+/Default.gdb/
+/.ipynb_checkpoints/
+/.backups/
+/Index/
+/src/sand.py
+/.pyHistory
+/*.pyt.xml
